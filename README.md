@@ -1,5 +1,1 @@
-<html><title>NAGEENA JEWELLERS</title><body><H1><CENTER><FONT COLOR ="RED"><marquee>WELCOME TO NAGEENA JEWELLERS</marquee></font><br><br><br><br>
-</H1><CENTER><p style="font-size: 20px;>"Welcome to the official website of NageenaJewellers.<br>We are Located at Fatehpur,UttarPradesh.We provide high quality gold and silver jewelleries at reasonable prices.The Ownwer is Mr Mitesh Rastogi.The Shop is Located at Baquar Ganj,fatehpur<br><img src ="papa.jpg"></p></body>
-
-
-</html>
+none to none
